@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MapSheet.png</Source>
+      <Name>MapSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb</Output>
+      <Time>2014-12-15T11:56:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\PlayGame.png</Source>
+      <Name>Buttons\PlayGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\PlayGame.xnb</Output>
+      <Time>2014-12-19T19:31:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\vol.png</Source>
+      <Name>Backgrounds\vol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\vol.xnb</Output>
+      <Time>2014-12-17T11:58:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\main.png</Source>
+      <Name>Backgrounds\main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\main.xnb</Output>
+      <Time>2014-12-19T19:18:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Options.png</Source>
+      <Name>Buttons\Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Options.xnb</Output>
+      <Time>2014-12-25T09:15:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Quit.png</Source>
+      <Name>Buttons\Quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Quit.xnb</Output>
+      <Time>2014-12-25T09:18:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Arcade - Metal Slug 3 - Rebel Soldier.png</Source>
+      <Name>Arcade - Metal Slug 3 - Rebel Soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb</Output>
+      <Time>2014-12-25T11:33:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\options-menu.png</Source>
+      <Name>Backgrounds\options-menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\options-menu.xnb</Output>
+      <Time>2014-12-26T08:14:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\ScoreBG.png</Source>
+      <Name>Backgrounds\ScoreBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\ScoreBG.xnb</Output>
+      <Time>2014-12-28T10:20:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Instructions.png</Source>
+      <Name>Buttons\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Instructions.xnb</Output>
+      <Time>2014-12-29T14:51:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Instructions.png</Source>
+      <Name>Backgrounds\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Instructions.xnb</Output>
+      <Time>2014-12-29T15:13:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Credits.png</Source>
+      <Name>Backgrounds\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Credits.xnb</Output>
+      <Time>2014-12-29T16:28:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Credits.png</Source>
+      <Name>Buttons\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Credits.xnb</Output>
+      <Time>2014-12-29T17:21:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>map\MapSheet.png</Source>
+      <Name>map\MapSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\map\MapSheet.xnb</Output>
+      <Time>2014-12-15T11:56:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\Arcade - Metal Slug - Rebel Soldier Rifle.png</Source>
+      <Name>sprites\Arcade - Metal Slug - Rebel Soldier Rifle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug - Rebel Soldier Rifle.xnb</Output>
+      <Time>2014-12-17T09:16:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\Arcade - Metal Slug 3 - Rebel Soldier.png</Source>
+      <Name>sprites\Arcade - Metal Slug 3 - Rebel Soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug 3 - Rebel Soldier.xnb</Output>
+      <Time>2014-12-19T19:45:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\Coin.png</Source>
+      <Name>sprites\Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\Coin.xnb</Output>
+      <Time>2014-12-27T11:17:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\enemy-run2.png</Source>
+      <Name>sprites\enemy-run2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\enemy-run2.xnb</Output>
+      <Time>2014-12-25T19:57:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\finall.png</Source>
+      <Name>sprites\finall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\finall.xnb</Output>
+      <Time>2014-12-27T16:19:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\attacked(88).png</Source>
+      <Name>test\attacked(88)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\attacked(88).xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\Coin (44).png</Source>
+      <Name>test\Coin (44)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\Coin (44).xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\down (81).png</Source>
+      <Name>test\down (81)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\down (81).xnb</Output>
+      <Time>2014-12-30T20:01:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\enemy die2 (48).png</Source>
+      <Name>test\enemy die2 (48)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy die2 (48).xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\enemy fired (52).png</Source>
+      <Name>test\enemy fired (52)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy fired (52).xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\enemy-run.png</Source>
+      <Name>test\enemy-run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy-run.xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\enemy_attack.png</Source>
+      <Name>test\enemy_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy_attack.xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\hero run.png</Source>
+      <Name>test\hero run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\hero run.xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\jumping-(83).png</Source>
+      <Name>test\jumping-(83)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\jumping-(83).xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\killed.png</Source>
+      <Name>test\killed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\killed.xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\stand-(89).png</Source>
+      <Name>test\stand-(89)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\stand-(89).xnb</Output>
+      <Time>2014-12-30T19:21:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\attacked_enemy (47).png</Source>
+      <Name>test\attacked_enemy (47)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\attacked_enemy (47).xnb</Output>
+      <Time>2014-12-30T19:42:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\die (85).png</Source>
+      <Name>test\die (85)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\die (85).xnb</Output>
+      <Time>2014-12-30T20:00:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\running.png</Source>
+      <Name>test\running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\running.xnb</Output>
+      <Time>2014-12-31T10:42:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test\bulllet.png</Source>
+      <Name>test\bulllet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\bulllet.xnb</Output>
+      <Time>2014-12-31T12:01:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\Menuloop.mp3</Source>
+      <Name>Tracks\Menuloop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.wma</Extra>
+      <Time>2014-12-19T20:30:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\BulletSound.mp3</Source>
+      <Name>Tracks\BulletSound</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.wma</Extra>
+      <Time>2014-12-26T10:08:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\GameOve.mp3</Source>
+      <Name>Tracks\GameOve</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.wma</Extra>
+      <Time>2014-12-28T10:23:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\Shotgun Sound Effects.mp3</Source>
+      <Name>Tracks\Shotgun Sound Effects</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.wma</Extra>
+      <Time>2014-12-27T12:56:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2014-12-26T07:56:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreFont.spritefont</Source>
+      <Name>Fonts\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Fonts\ScoreFont.xnb</Output>
+      <Time>2014-12-29T13:38:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SpriteFont1.spritefont</Source>
+      <Name>Fonts\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb</Output>
+      <Time>2014-12-12T18:56:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\EnemyDie.wav</Source>
+      <Name>Tracks\EnemyDie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyDie.xnb</Output>
+      <Time>2014-12-30T00:11:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\BulletLoad.wav</Source>
+      <Name>Tracks\BulletLoad</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletLoad.xnb</Output>
+      <Time>2014-12-29T15:55:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\Reload.wav</Source>
+      <Name>Tracks\Reload</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Reload.xnb</Output>
+      <Time>2014-12-29T15:55:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\GameSoundTrack.wav</Source>
+      <Name>Tracks\GameSoundTrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameSoundTrack.xnb</Output>
+      <Time>2014-12-29T18:29:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\HeroGun.wav</Source>
+      <Name>Tracks\HeroGun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroGun.xnb</Output>
+      <Time>2014-12-29T19:37:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\EnemyGun.wav</Source>
+      <Name>Tracks\EnemyGun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyGun.xnb</Output>
+      <Time>2014-12-29T23:57:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\Plane.wav</Source>
+      <Name>Tracks\Plane</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Plane.xnb</Output>
+      <Time>2014-12-29T23:58:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\PlaneCrash.wav</Source>
+      <Name>Tracks\PlaneCrash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneCrash.xnb</Output>
+      <Time>2014-12-29T23:58:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\PlaneGrenade.wav</Source>
+      <Name>Tracks\PlaneGrenade</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneGrenade.xnb</Output>
+      <Time>2014-12-29T23:59:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\HeroDie.wav</Source>
+      <Name>Tracks\HeroDie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroDie.xnb</Output>
+      <Time>2014-12-30T00:12:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\GameOver.wav</Source>
+      <Name>Tracks\GameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOver.xnb</Output>
+      <Time>2014-12-30T00:17:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\Bullet.wav</Source>
+      <Name>Tracks\Bullet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Bullet.xnb</Output>
+      <Time>2014-12-29T18:45:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\GameTS.wav</Source>
+      <Name>Tracks\GameTS</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameTS.xnb</Output>
+      <Time>2014-12-29T18:29:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\menuloo.wav</Source>
+      <Name>Tracks\menuloo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\menuloo.xnb</Output>
+      <Time>2014-12-19T20:38:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\reloadsound.wav</Source>
+      <Name>Tracks\reloadsound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\reloadsound.xnb</Output>
+      <Time>2014-12-29T15:55:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tracks\Shoty.wav</Source>
+      <Name>Tracks\Shoty</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Shoty.xnb</Output>
+      <Time>2014-12-27T12:58:48+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{780D93B1-BB9C-4927-9DE8-9897462E018F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS projectContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-06T21:44:57.4988841+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

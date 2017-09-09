@@ -1,0 +1,61 @@
+Content\MapSheet.xnb
+Content\Buttons\PlayGame.xnb
+Content\Backgrounds\vol.xnb
+Content\Backgrounds\main.xnb
+Content\Buttons\Options.xnb
+Content\Buttons\Quit.xnb
+Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+Content\Backgrounds\options-menu.xnb
+Content\Backgrounds\ScoreBG.xnb
+Content\Buttons\Instructions.xnb
+Content\Backgrounds\Instructions.xnb
+Content\Backgrounds\Credits.xnb
+Content\Buttons\Credits.xnb
+Content\map\MapSheet.xnb
+Content\sprites\Arcade - Metal Slug - Rebel Soldier Rifle.xnb
+Content\sprites\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+Content\sprites\Coin.xnb
+Content\sprites\enemy-run2.xnb
+Content\sprites\finall.xnb
+Content\test\attacked(88).xnb
+Content\test\Coin (44).xnb
+Content\test\down (81).xnb
+Content\test\enemy die2 (48).xnb
+Content\test\enemy fired (52).xnb
+Content\test\enemy-run.xnb
+Content\test\enemy_attack.xnb
+Content\test\hero run.xnb
+Content\test\jumping-(83).xnb
+Content\test\killed.xnb
+Content\test\stand-(89).xnb
+Content\test\attacked_enemy (47).xnb
+Content\test\die (85).xnb
+Content\test\running.xnb
+Content\test\bulllet.xnb
+Content\Tracks\Menuloop.xnb
+Content\Tracks\BulletSound.xnb
+Content\Tracks\GameOve.xnb
+Content\Tracks\Shotgun Sound Effects.xnb
+Content\Fonts\MenuFont.xnb
+Content\Fonts\ScoreFont.xnb
+Content\Fonts\SpriteFont1.xnb
+Content\Tracks\EnemyDie.xnb
+Content\Tracks\BulletLoad.xnb
+Content\Tracks\Reload.xnb
+Content\Tracks\GameSoundTrack.xnb
+Content\Tracks\HeroGun.xnb
+Content\Tracks\EnemyGun.xnb
+Content\Tracks\Plane.xnb
+Content\Tracks\PlaneCrash.xnb
+Content\Tracks\PlaneGrenade.xnb
+Content\Tracks\HeroDie.xnb
+Content\Tracks\GameOver.xnb
+Content\Tracks\Bullet.xnb
+Content\Tracks\GameTS.xnb
+Content\Tracks\menuloo.xnb
+Content\Tracks\reloadsound.xnb
+Content\Tracks\Shoty.xnb
+Content\Tracks\Menuloop.wma
+Content\Tracks\BulletSound.wma
+Content\Tracks\GameOve.wma
+Content\Tracks\Shotgun Sound Effects.wma

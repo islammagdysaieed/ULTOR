@@ -1,0 +1,363 @@
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS project\bin\x86\Debug\DS project.exe
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS project\bin\x86\Debug\DS project.pdb
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS project\obj\x86\Debug\DS project.csprojResolveAssemblyReference.cache
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS project\obj\x86\Debug\DS project.exe
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS project\obj\x86\Debug\DS project.pdb
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\PlayGame.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\vol.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\main.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Options.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Quit.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.wma
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\DS project.exe
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\DS project.pdb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\obj\x86\Debug\DS project.exe
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\obj\x86\Debug\DS project.pdb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\obj\x86\Debug\DS project.csprojResolveAssemblyReference.cache
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\options-menu.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.wma
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\heroGun.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\ScoreBG.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOver.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Instructions.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Instructions.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\reload.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\credits.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Credits.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\GameSoundTrack.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyDie.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletLoad.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyGun.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Plane.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneCrash.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneGrenade.xnb
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroDie.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\obj\x86\Debug\DS project.exe
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\obj\x86\Debug\DS project.pdb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\PlayGame.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\vol.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\main.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Options.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Quit.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\options-menu.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\ScoreBG.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Instructions.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Instructions.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Credits.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Buttons\Credits.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyDie.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletLoad.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Reload.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\GameSoundTrack.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroGun.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyGun.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Plane.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneCrash.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneGrenade.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroDie.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOver.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.wma
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.wma
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\DS project.exe
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\DS project.pdb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\obj\x86\Debug\DS project.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\map\MapSheet.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug - Rebel Soldier Rifle.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\sprites\Coin.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\sprites\enemy-run2.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\sprites\finall.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Bullet.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\GameTS.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\menuloo.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\reloadsound.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Shoty.xnb
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.wma
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.wma
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\PlayGame.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\vol.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\main.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Options.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Quit.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\options-menu.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\ScoreBG.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Instructions.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Instructions.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Credits.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Credits.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\map\MapSheet.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug - Rebel Soldier Rifle.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\Coin.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\enemy-run2.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\finall.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyDie.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletLoad.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Reload.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameSoundTrack.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroGun.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyGun.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Plane.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneCrash.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneGrenade.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroDie.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOver.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Bullet.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameTS.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\menuloo.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\reloadsound.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shoty.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.wma
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.wma
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.wma
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.wma
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\DS project.exe
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\DS project.pdb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\obj\x86\Debug\DS project.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\obj\x86\Debug\DS project.exe
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\obj\x86\Debug\DS project.pdb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\attacked(88).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\Coin (44).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy die2 (48).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy fired (52).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy-run.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy_attack.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\hero run.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\jumping-(83).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\killed.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\stand-(89).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\attacked_enemy (47).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\die (85).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\down (81).xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\running.xnb
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\bulllet.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\PlayGame.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\vol.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\main.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Options.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Quit.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\options-menu.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\ScoreBG.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Instructions.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Instructions.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Credits.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Buttons\Credits.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\map\MapSheet.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug - Rebel Soldier Rifle.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\Coin.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\enemy-run2.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\sprites\finall.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\attacked(88).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\Coin (44).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\down (81).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy die2 (48).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy fired (52).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy-run.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\enemy_attack.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\hero run.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\jumping-(83).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\killed.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\stand-(89).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\attacked_enemy (47).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\die (85).xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\running.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\test\bulllet.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyDie.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletLoad.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Reload.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameSoundTrack.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroGun.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyGun.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Plane.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneCrash.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneGrenade.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroDie.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOver.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Bullet.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameTS.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\menuloo.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\reloadsound.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shoty.xnb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.wma
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.wma
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.wma
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.wma
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\DS project.exe
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\bin\x86\Debug\DS project.pdb
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\obj\x86\Debug\DS project.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\obj\x86\Debug\DS project.exe
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS project\obj\x86\Debug\DS project.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Buttons\PlayGame.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\vol.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\main.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Buttons\Options.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Buttons\Quit.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\options-menu.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\ScoreBG.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Buttons\Instructions.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Instructions.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Credits.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Buttons\Credits.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\map\MapSheet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug - Rebel Soldier Rifle.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\sprites\Coin.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\sprites\enemy-run2.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\sprites\finall.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\attacked(88).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\Coin (44).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\down (81).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\enemy die2 (48).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\enemy fired (52).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\enemy-run.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\enemy_attack.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\hero run.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\jumping-(83).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\killed.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\stand-(89).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\attacked_enemy (47).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\die (85).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\running.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\test\bulllet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyDie.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletLoad.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Reload.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameSoundTrack.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroGun.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyGun.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Plane.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneCrash.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneGrenade.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroDie.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOver.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Bullet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameTS.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\menuloo.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\reloadsound.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shoty.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\DS project.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\bin\x86\Debug\DS project.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\obj\x86\Debug\DS project.csprojResolveAssemblyReference.cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\obj\x86\Debug\DS project.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS project\obj\x86\Debug\DS project.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\MapSheet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\PlayGame.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\vol.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\main.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Options.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Quit.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\options-menu.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\ScoreBG.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Instructions.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Instructions.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Backgrounds\Credits.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Buttons\Credits.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\map\MapSheet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug - Rebel Soldier Rifle.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\Arcade - Metal Slug 3 - Rebel Soldier.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\Coin.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\enemy-run2.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\sprites\finall.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\attacked(88).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\Coin (44).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\down (81).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy die2 (48).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy fired (52).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy-run.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\enemy_attack.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\hero run.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\jumping-(83).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\killed.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\stand-(89).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\attacked_enemy (47).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\die (85).xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\running.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\test\bulllet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyDie.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletLoad.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Reload.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameSoundTrack.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroGun.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\EnemyGun.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Plane.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneCrash.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\PlaneGrenade.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\HeroDie.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOver.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Bullet.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameTS.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\menuloo.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\reloadsound.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Shoty.xnb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Menuloop.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\BulletSound.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\GameOve.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\Content\Tracks\Shotgun Sound Effects.wma
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\DS project.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\bin\x86\Debug\DS project.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\obj\x86\Debug\DS project.csprojResolveAssemblyReference.cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\obj\x86\Debug\DS project.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS project\obj\x86\Debug\DS project.pdb

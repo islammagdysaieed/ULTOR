@@ -1,0 +1,7 @@
+C:\Users\islam\Documents\Visual Studio 2012\Projects\DS project\DS project\DS projectContent\obj\x86\Debug\DS projectContent.contentprojResolveAssemblyReference.cache
+F:\FCIS - ASU\My Projects\Second Year\Contra\DS project\DS project\DS projectContent\obj\x86\Debug\DS projectContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\DS project\DS project\DS projectContent\obj\x86\Debug\DS projectContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\المتعدل\DS project\DS projectContent\obj\x86\Debug\DS projectContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\New folder\المتعدل\DS project\DS projectContent\obj\x86\Debug\DS projectContent.contentprojResolveAssemblyReference.cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\المتعد4ل\DS project\DS projectContent\obj\x86\Debug\DS projectContent.contentprojResolveAssemblyReference.cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\DS\ULTOR\DS project\DS projectContent\obj\x86\Debug\DS projectContent.contentprojResolveAssemblyReference.cache
